@@ -1,0 +1,37 @@
+nav{
+    background: aqua;
+    padding:20px; 
+    text-align: center;
+}
+article {
+    min-height: 600px;
+    width: 100%;
+    float: left;
+    
+}
+.box--1 {
+    width: 50%;
+    background-color: violet;
+    height: 90px;
+    padding-right: 10px;
+  }
+.box--2 {
+    background-color: purple;
+    width: 50%;
+    height: 70px;
+  }
+.box--3 {
+    background-color: green;
+    width: 50%;
+    height: 70px;
+    text-align: center;
+    margin-top: -70px;
+    margin-left: 39.7rem;
+  }
+footer {
+    padding: 0 auto;
+    color: white;
+    clear: left;
+    background-color: red;
+  }
+  
